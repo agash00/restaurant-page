@@ -1,0 +1,43 @@
+.menuImages {
+	width: 50%;
+	height: 30vh;
+	border-right: solid 3px white;
+	transition-duration: 0.5s;
+	opacity: 0.5;
+}
+
+.menuImages:hover {
+	width: 100%;
+	border: none;
+	opacity: 1;
+}
+
+#menuImages0 {
+	background-image: url('images/nutella-french-toast.jpg');
+	background-size: cover;
+}
+
+#menuImages1 {
+	background-image: url('images/nutella-bagel.jpg');
+	background-size: cover;
+}
+
+#menuImages2 {
+	background-image: url('images/nutella-pancakes.jpg');
+	background-size: cover;
+}
+
+#menuImages3 {
+	background-image: url('images/nutella-croissant.jpg');
+	background-size: cover;
+}
+
+#menuImages4 {
+	background-image: url('images/egg.jpg');
+	background-size: cover;
+}
+
+#menuImages5 {
+	background-image: url('images/panini.jpg');
+	background-size: cover;
+}
